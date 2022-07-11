@@ -1,0 +1,27 @@
+{
+  "name": "@medolino/js-pi",
+  "version": "0.0.1",
+  "description": "JS Project Init",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "js-pi": "./bin/project-init.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Miran Setinc - Lino",
+    "url": "https://github.com/medolino"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "execa": "^6.1.0",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
