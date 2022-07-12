@@ -1,6 +1,6 @@
 {
   "name": "@medolino/js-pi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JS Project Init",
   "type": "module",
   "main": "src/index.js",
