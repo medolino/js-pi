@@ -20,7 +20,7 @@ const parseArguments = (rawArgs) => {
       '--target': String,
       // aliases
       '-g': '--git',
-      '-y': '--yes',
+      '-i': '--install',
       '-t': '--target'
     }
   )
