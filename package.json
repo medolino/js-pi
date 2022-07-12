@@ -10,6 +10,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medolino/js-pi.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "project init",
+    "project bootstrap"
+  ],
   "author": {
     "name": "Miran Setinc - Lino",
     "url": "https://github.com/medolino"
